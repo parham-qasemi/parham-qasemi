@@ -9,4 +9,4 @@ const response = {
     quote: "Do something that makes people's lives easier.",
   },
 };
-console.log(response)
+console.log(response);
