@@ -1,9 +1,4 @@
-<img src="[C:\Users\Parham\Desktop\WELCOME TO my.png](https://github.com/user-attachments/assets/227871c6-a7ff-43fb-b838-143faba790fd)"/>
-
-
-
-
-
+![head](https://github.com/parham-qasemi/parham-qasemi/blob/main/WELCOME%20TO%20my.png?raw=true)
 
 ```javascript
 const response = {
