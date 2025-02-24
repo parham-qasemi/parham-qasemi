@@ -1,3 +1,4 @@
+''''
 const response = {
  status:202,
  data: { 
@@ -7,5 +8,5 @@ const response = {
    skills: "Html, Css, Javascript, React , ...",
    }
 }:
-
+'''
  
