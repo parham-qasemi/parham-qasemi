@@ -1,4 +1,4 @@
-![head](https://github.com/parham-qasemi/parham-qasemi/blob/main/WELCOME%20TO%20my.png?raw=true)
+![head](https://github.com/parham-qasemi/parham-qasemi/blob/main/parham%20qasemi.png?raw=true)
 
 ```javascript
 const response = {
