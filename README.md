@@ -32,11 +32,9 @@ const response = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-### 📩 Connect With Me
-<a href="https://t.me/parham_qsm">
-<img  src=https://github.com/parham-qasemi/parham-qasemi/blob/main/icons8-telegram-48.png?raw=true/>
 
-</a>
+
+
 
 
 
