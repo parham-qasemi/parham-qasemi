@@ -33,8 +33,8 @@ const response = {
 
 ---
 ### 📩 Connect With Me
-<a>
-<img href="https://t.me/parham-qsm" src= https://github.com/parham-qasemi/parham-qasemi/blob/main/icons8-telegram-48.png?row=true/>
+<a href="https://t.me/parham-qsm">
+<img  src= https://github.com/parham-qasemi/parham-qasemi/blob/main/icons8-telegram-48.png?row=true/>
 
 </a>
 
