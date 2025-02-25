@@ -8,7 +8,7 @@ const response = {
     birthDay: "2003 June 17, Tuesday",
     university: "Computer Engineering IAU Tehran East-CE",
     hobbies: ["podcast", "book", "hiking", "cycling", "web scraping"],
-    languages: ["Html, Css, Javascript, React, ..."],
+    languages: ["Html, Css, Javascript, React, Python, ..."],
     quote: "Do something that makes people's lives easier.",
   },
 };
