@@ -14,7 +14,7 @@ const response = {
 };
 ```
 
-<h1 align="center">Hi, I'm Parham Qasemi!<picture>
+<h1 align="center">Hi, I'm Parham qasemi!<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
 </picture> 🚀</h1>
