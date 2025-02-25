@@ -13,12 +13,11 @@ const response = {
   },
 };
 ```
-<h2>Hi, Im Parham qasemi<picture>
+
+<h1 align="center">Hi, I'm Parham Qasemi!<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-</picture></h2>
-
-<h1 align="center">Hi, I'm Parham Qasemi! 🚀</h1>
+</picture> 🚀</h1>
 <h3 align="center">Frontend Developer | Web Enthusiast | UI/UX Lover 🎨💻</h3>
 
 <p align="center">
