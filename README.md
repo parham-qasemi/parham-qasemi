@@ -25,8 +25,9 @@ const response = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=python&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue?logo=machine-learning&logoColor=white&style=for-the-badge)
+
 
 
 
