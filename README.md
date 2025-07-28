@@ -28,6 +28,8 @@ const response = {
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-006d77?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-014f86?style=for-the-badge&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0077b6?style=for-the-badge&logo=openai&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-00b4d8?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
